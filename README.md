@@ -6,4 +6,4 @@
 # git clone https://github.com/A693357293/Nuevo-buscador-nmap.git
 # Entra en el nuevo directorio creado.
 # ejecuta el archibo con..
-# sudo nmap.sh
+# bash nmap.sh
