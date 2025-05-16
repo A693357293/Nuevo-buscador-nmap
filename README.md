@@ -1,5 +1,9 @@
 # Nuevo-buscador-nmap
-# Copia la Url
+# Copia la Url https://github.com/A693357293/Nuevo-buscador-nmap.git
 
 # INSTALACION:
-git clone 
+# En la consola instalala con el comando
+# git clone https://github.com/A693357293/Nuevo-buscador-nmap.git
+# Entra en el nuevo directorio creado.
+# ejecuta el archibo con..
+# sudo nmap.sh
